@@ -13,6 +13,8 @@ Markdown = "^3.3.7"
 django-filter = "^22.1"
 six = "^1.16.0"
 rst2pdf = "^0.99"
+python-decouple = "^3.6"
+django-crispy-forms = "^1.14.0"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
